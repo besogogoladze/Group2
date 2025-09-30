@@ -147,7 +147,7 @@ git status
 
 # 2. Modifier des fichiers
 # Ouvrir README.md avec votre éditeur (VS Code, Notepad++, etc.)
-# Faire vos modifications
+# Faire vos modifications 
 
 # 3. Voir ce qui a changé
 git status
