@@ -706,4 +706,4 @@ git log --oneline # Qu'est-ce qui a été fait récemment ?
 
 **En cas de problème, contacter :**
 - Beso (Lead Developer)
-- Ou consulter la documentation Git officielle : https://git-scm.com/doc
+- Ou consulter la documentation Git officielle
